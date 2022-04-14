@@ -1,4 +1,5 @@
 # fast-cli
+[![Dockerhub](https://github.com/Sierra1011/fast-cli/actions/workflows/main.yml/badge.svg)](https://github.com/Sierra1011/fast-cli/actions/workflows/main.yml)
 
 > Test your download and upload speed using [fast.com](https://fast.com)
 
