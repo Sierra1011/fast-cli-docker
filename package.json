@@ -3,12 +3,11 @@
 	"version": "3.2.0",
 	"description": "Test your download and upload speed using fast.com",
 	"license": "MIT",
-	"repository": "sindresorhus/fast-cli",
+	"repository": "Sierra1011/fast-cli",
 	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "Sierra1011",
+		"email": "43705549+Sierra1011@users.noreply.github.com"
 	},
 	"bin": {
 		"fast": "cli.js"
