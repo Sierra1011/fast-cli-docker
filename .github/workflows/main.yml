@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ env.GITHUB_REPOSITORY }}:latest
+          tags: sierra1011/${{ github.event.push.base.repo.name }}:latest
