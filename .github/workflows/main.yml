@@ -18,7 +18,7 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-        run: echo 
+        #run: echo 
       -
         name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v1
